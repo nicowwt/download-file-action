@@ -6,7 +6,7 @@ branding:
   color: 'blue'
 inputs:
   file-url:
-    description: 'URL of the file to download'
+    description: 'https://prx.vxload.com/file/dfac85f4aa6a70ef/WoWhWaDi70JP.part1.rar'
     required: true
   file-name:
     description: 'New filename to rename the downloaded file'
